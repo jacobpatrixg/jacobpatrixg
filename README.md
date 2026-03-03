@@ -3,6 +3,8 @@
 ### 🏀 Business Student & Aspiring IT/Cybersecurity Analyst | Class of May 2026
 I am a **4-year Collegiate Student-Athlete** and **Business Administration Major** currently training to enter the IT and Cybersecurity field. I am focused on bridging the gap between business operations and technical security.
 
+John 14:6
+
 As a **Point Guard**, I’ve spent my college career as the "on-court general," responsible for communication, strategy, and execution under pressure. I am now applying that same disciplined, team-first mindset to technical troubleshooting and digital defense.
 
 ---
@@ -28,7 +30,17 @@ As a **Point Guard**, I’ve spent my college career as the "on-court general," 
 
 ### 🛡️ Training Projects & Labs
 
-#### 📂 [Internal Security Audit: Botium Toys (Case Study)]([https://github.com/jacobpatrixg/Security-Audit-Project]
+📁 Enterprise-Grade Kali Linux Lab Build (ARM64) [https://github.com/jacobpatrixg/Kali-Linux-ARM64-Lab-Build]
+
+  - The Project: Engineered a high-performance security laboratory on Apple Silicon (M-series) using UTM/QEMU virtualization.
+  - The Goal: To overcome architecture-specific library conflicts and scale virtual infrastructure to support full-stack security auditing.
+
+Technical Highlights:
+  - System Recovery: Resolved critical DPKG database corruption through manual triage and dependency resolution.
+  - Infrastructure Scaling: Expanded virtual storage from 20GB to 60GB using GParted to optimize partition geometry.
+  - Validation: Verified lab integrity by performing aggressive Nmap service versioning and OS fingerprinting.
+
+#### 📂 [Internal Security Audit: Botium Toys (Case Study)[https://github.com/jacobpatrixg/Security-Audit-Project]
 * **The Project:** Completed a mock risk assessment for a global retailer as part of my Google Certification.
 * **The Goal:** To identify vulnerabilities and recommend security controls (IDS, Encryption, Least Privilege) using the **NIST Cybersecurity Framework**.
 
